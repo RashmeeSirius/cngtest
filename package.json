@@ -1,0 +1,16 @@
+{
+  "name": "MyPuppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node amazontest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expect-puppeteer": "^4.4.0",
+    "puppeteer": "^4.0.1"
+  }
+}
